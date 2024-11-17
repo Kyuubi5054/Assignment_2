@@ -1,0 +1,39 @@
+% Author: Sam Falk
+% Email: falksa78@rowan.edu
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: Stock_Market_Analysis
+% Date: 11/16/24
+
+% .txt file for stock market data
+
+101.00
+102.00
+103.00
+103.00
+105.00
+106.00
+111.00
+108.00
+108.00
+110.00
+107.00
+112.00
+113.00
+117.00
+117.00
+116.00
+114.00
+118.00
+119.00
+112.00
+125.00
+128.00
+113.00
+118.00
+126.00
+122.00
+129.00
+125.00
+129.00
+130.00
